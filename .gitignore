@@ -1,0 +1,27 @@
+# eclipse configuration info
+.metadata/
+.recommenders/
+RemoteSystemsTempFiles/
+Servers/
+
+# icon
+icon/
+
+# project configuration info
+online_store/.settings/
+online_store/.project
+online_store/*/.settings/
+online_store/*/target/
+online_store/*/.classpath
+online_store/*/.project
+online_store_web/.settings/
+online_store_web/target/
+online_store_web/.classpath
+online_store_web/.project
+
+# note
+git-123456.png
+OnlineStore需求.txt
+Untitled.epgz
+笔记.docx
+表结构.png
